@@ -9,17 +9,17 @@ The full write up and details can be found here: http://www.tecoed.co.uk/get-to-
 
 # Parts list
 
-Red LED,
++ Red LED,
 + Tilt Switch,
 + Jumper Jerky
-- Distance Sensor
-Raspberry Pi
-Bluetooth Dongle
-Book
++ Distance Sensor
++ Raspberry Pi
++ Bluetooth Dongle
++ Book
 
 #Software requirements
 
-sudo apt-get install python3-gpiozero
++ sudo apt-get install python3-gpiozero
 or
-sudo apt-get install python-gpiozero
-sudo apt-get install vlc 
++ sudo apt-get install python-gpiozero
++ sudo apt-get install vlc 
