@@ -10,9 +10,9 @@ The full write up and details can be found here: http://www.tecoed.co.uk/get-to-
 # Parts list
 
 Red LED,
-Tilt Switch,
-Jumper Jerky
-Distance Sensor
++ Tilt Switch,
++ Jumper Jerky
+- Distance Sensor
 Raspberry Pi
 Bluetooth Dongle
 Book
