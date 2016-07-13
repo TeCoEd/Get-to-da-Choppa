@@ -20,6 +20,5 @@ The full write up and details can be found here: http://www.tecoed.co.uk/get-to-
 #Software requirements
 
 + sudo apt-get install python3-gpiozero
-or
 + sudo apt-get install python-gpiozero
 + sudo apt-get install vlc 
