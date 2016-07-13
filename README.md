@@ -9,8 +9,8 @@ The full write up and details can be found here: http://www.tecoed.co.uk/get-to-
 
 # Parts list
 
-Red LED
-Tilt Switch
+Red LED,
+Tilt Switch,
 Jumper Jerky
 Distance Sensor
 Raspberry Pi
