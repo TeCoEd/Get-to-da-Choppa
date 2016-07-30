@@ -22,3 +22,7 @@ The full write up and details can be found here: http://www.tecoed.co.uk/get-to-
 + sudo apt-get install python3-gpiozero
 + sudo apt-get install python-gpiozero
 + sudo apt-get install vlc 
+
+[![Watch the book in action](https://img.youtu.be/XqmQnMJAR_w.jpg)](https://youtu.be/XqmQnMJAR_w)
+
+https://youtu.be/XqmQnMJAR_w
